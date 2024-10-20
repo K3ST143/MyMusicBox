@@ -24,5 +24,12 @@ My Music Box is an AI-powered quantum computing processing package integrating n
 ## MIT License 
 add MIT License 
 
-## Installation
+## Installatio
+1. Clone the repository and run the automation script:
+   ```sh
+   git clone https://github.com/K3ST143/MyMusicBox.git
+   cd MyMusicBox
+   chmod +x automation.sh
+   ./automation.sh
+
 
